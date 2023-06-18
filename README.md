@@ -1,0 +1,1 @@
+This project is my first PHP project where I created a website for WolfAbility, a gymwear brand. The website allows users to explore and purchase gym clothing and accessories from the brand. It utilizes PHP commands such as include, fetch, assoc, etc. to enhance its functionality.
